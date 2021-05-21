@@ -1,5 +1,5 @@
 # Smooth-Follow-Camera-Unity-2D
-Smooth Follow Camera for object.
+Smooth Follow Camera to object.
 
 1. Add this script on camera
 2. Set target
